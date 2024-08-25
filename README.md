@@ -18,4 +18,4 @@ A classic Hangman game built using HTML, CSS, and JavaScript. The goal of the ga
 5. The game ends when the word is guessed or all the parts of the hangman are drawn.
 
 ### Live Demo
-Check out the live demo of Leon: [Hangman Game Demo](https://abdelsalam-ebrahim.github.io/Hangman-Game/)
+Check out the live demo of the game: [Hangman Game Demo](https://abdelsalam-ebrahim.github.io/Hangman-Game/)
